@@ -11,9 +11,9 @@ The purpose of this repo is to showcase my STATS 220 projects 🖥
 
 I will be using these tools to help me achieve my goals:
 
-1. [markdownguide] (https://www.markdownguide.org/basic-syntax)
-2. [markdowneditor] (https://dillinger.io/)
+1. [markdownguide!] (https://www.markdownguide.org/basic-syntax)
+2. [markdowneditor!] (https://dillinger.io/)
 
 That's all! 
 
-![catonbooks](path = "https://i.pinimg.com/564x/9b/c5/60/9bc560f5582e08dd038a2f0660dc564c.jpg")
+image_read("https://i.pinimg.com/564x/9b/c5/60/9bc560f5582e08dd038a2f0660dc564c.jpg")
