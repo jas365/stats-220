@@ -16,4 +16,4 @@ I will be using these tools to help me achieve my goals:
 
 That's all! 
 
-![catcoding](https://media.tenor.com/N-fJ0Azh_ykAAAAM/cat-computer.gif)
+![catcoding](https://i.pinimg.com/564x/33/b5/96/33b596bd1d613e4b73255bb22cef667e.jpg)
